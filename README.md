@@ -17,7 +17,9 @@ A monophonic singing voice you steer by vowel, with an animated three-eyed oracl
 
 ## Install
 
-Grab the zip from [Releases](../../releases), then:
+Run `AstralThroat-Setup-<version>.exe` from [Releases](../../releases): it installs the VST3 plugin and the standalone app.
+
+Or grab the zip, then:
 
 - copy `Astral Throat.vst3` to `C:\Program Files\Common Files\VST3` and rescan plugins in your DAW, or
 - run `Astral Throat.exe` (standalone, has an on-screen keyboard).
